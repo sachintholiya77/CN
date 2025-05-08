@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which tool is commonly used to check basic network connectivity?",
+    "options": ["Netstat", "Ping", "FTP", "ARP"],
+    "answer": "Ping"
+  },
+  {
+    "question": "Which protocol does Ping use?",
+    "options": ["TCP", "UDP", "ICMP", "HTTP"],
+    "answer": "ICMP"
+  },
+  {
+    "question": "Which tool is used to trace the route a packet takes to a destination?",
+    "options": ["ping", "tracert/traceroute", "ipconfig", "nslookup"],
+    "answer": "tracert/traceroute"
+  },
+  {
+    "question": "Which tool is used for remote terminal connections?",
+    "options": ["tracert", "telnet", "ping", "nslookup"],
+    "answer": "telnet"
+  },
+  {
+    "question": "What does ICMP stand for?",
+    "options": ["Internet Connection Management Protocol", "Internet Control Message Protocol", "Internal Configuration Management Protocol", "Integrated Control Messaging Protocol"],
+    "answer": "Internet Control Message Protocol"
+  },
+  {
+    "question": "Which tool is used to query DNS servers?",
+    "options": ["ping", "traceroute", "nslookup", "netstat"],
+    "answer": "nslookup"
+  },
+  {
+    "question": "Which tool is used to display the path packets take to reach a destination?",
+    "options": ["ipconfig", "traceroute", "telnet", "arp"],
+    "answer": "traceroute"
+  },
+  {
+    "question": "What does DNS stand for?",
+    "options": ["Dynamic Naming System", "Domain Name Server", "Domain Name System", "Digital Naming Service"],
+    "answer": "Domain Name System"
+  },
+  {
+    "question": "What is the role of a public DNS server?",
+    "options": ["Encrypt data", "Translate domain names to IPs", "Host cloud services", "Assign MAC addresses"],
+    "answer": "Translate domain names to IPs"
+  },
+  {
+    "question": "Google's public DNS server IP is:",
+    "options": ["8.8.8.8", "1.1.1.1", "127.0.0.1", "255.255.255.0"],
+    "answer": "8.8.8.8"
+  },
+  {
+    "question": "Which file is used in Windows and Linux to manually resolve hostnames?",
+    "options": ["route.cfg", "host.txt", "hosts", "dnsmap"],
+    "answer": "hosts"
+  },
+  {
+    "question": "Which of these is NOT a reason to edit the hosts file?",
+    "options": ["Block websites", "Speed up local resolution", "Test domain before DNS update", "Increase bandwidth"],
+    "answer": "Increase bandwidth"
+  },
+  {
+    "question": "What happens when a DNS registration expires?",
+    "options": ["IP changes", "Website becomes unreachable", "Name is reserved indefinitely", "SSL is revoked"],
+    "answer": "Website becomes unreachable"
+  },
+  {
+    "question": "What is the cloud in networking?",
+    "options": ["Physical router", "Shared virtual resources over the internet", "Satellite communication", "A local network"],
+    "answer": "Shared virtual resources over the internet"
+  },
+  {
+    "question": "Which of the following is an example of Everything as a Service (XaaS)?",
+    "options": ["FTP", "SaaS", "HDMI", "NAT"],
+    "answer": "SaaS"
+  },
+  {
+    "question": "Cloud storage allows users to:",
+    "options": ["Compress files", "Access files remotely via internet", "Format drives", "Speed up boot times"],
+    "answer": "Access files remotely via internet"
+  },
+  {
+    "question": "Which of the following is a cloud storage provider?",
+    "options": ["HTTP", "Dropbox", "ICMP", "NAT"],
+    "answer": "Dropbox"
+  },
+  {
+    "question": "IPv6 uses how many bits in its address?",
+    "options": ["32", "64", "128", "256"],
+    "answer": "128"
+  },
+  {
+    "question": "Which of the following is an example of a valid IPv6 address?",
+    "options": ["192.168.1.1", "fe80::1", "127.0.0.1", "255.255.255.0"],
+    "answer": "fe80::1"
+  },
+  {
+    "question": "What notation does IPv6 use?",
+    "options": ["Decimal", "Binary", "Hexadecimal", "Octal"],
+    "answer": "Hexadecimal"
+  },
+  {
+    "question": "What is the purpose of subnetting?",
+    "options": ["Increase network speed", "Divide a network into smaller segments", "Encrypt data", "Filter IP packets"],
+    "answer": "Divide a network into smaller segments"
+  },
+  {
+    "question": "Which part of an IPv6 address denotes the subnet?",
+    "options": ["Host ID", "Prefix", "TTL", "Gateway"],
+    "answer": "Prefix"
+  },
+  {
+    "question": "Which layer does Ping operate at?",
+    "options": ["Application", "Transport", "Network", "Physical"],
+    "answer": "Network"
+  },
+  {
+    "question": "What is one benefit of IPv6 over IPv4?",
+    "options": ["Slower speed", "Lower security", "Larger address space", "Smaller packets"],
+    "answer": "Larger address space"
+  },
+  {
+    "question": "Which address is used for loopback in IPv6?",
+    "options": ["127.0.0.1", "fe80::1", "::1", "0.0.0.0"],
+    "answer": "::1"
+  },
+  {
+    "question": "The ping tool sends what type of message?",
+    "options": ["Echo request", "ARP reply", "TCP SYN", "DNS lookup"],
+    "answer": "Echo request"
+  },
+  {
+    "question": "Which tool would you use to troubleshoot DNS issues?",
+    "options": ["telnet", "nslookup", "netstat", "ping"],
+    "answer": "nslookup"
+  },
+  {
+    "question": "Which of the following represents 'Everything as a Service'?",
+    "options": ["XaaS", "SaaS only", "IaaS only", "HTTP"],
+    "answer": "XaaS"
+  },
+  {
+    "question": "Which IPv6 feature allows simultaneous use of IPv4 and IPv6?",
+    "options": ["Dual stack", "Multicast", "Anycast", "NAT64"],
+    "answer": "Dual stack"
+  },
+  {
+    "question": "A common reason for failed DNS resolution is:",
+    "options": ["Wrong gateway", "DNS server down", "Cable unplugged", "IP conflict"],
+    "answer": "DNS server down"
+  },
+  {
+    "question": "IPv6 does NOT use which of the following?",
+    "options": ["NAT", "Hexadecimal", "128-bit addressing", "Subnetting"],
+    "answer": "NAT"
+  },
+  {
+    "question": "Cloud computing is most associated with which model?",
+    "options": ["Client-server", "Peer-to-peer", "Centralized routing", "Distributed systems"],
+    "answer": "Distributed systems"
+  },
+  {
+    "question": "Cloud services are accessed through:",
+    "options": ["USB drives", "Local disks", "Internet", "BIOS"],
+    "answer": "Internet"
+  },
+  {
+    "question": "Which IPv6 header field replaces the IPv4 TTL field?",
+    "options": ["Next Header", "Hop Limit", "Flow Label", "Traffic Class"],
+    "answer": "Hop Limit"
+  },
+  {
+    "question": "Cloud models include all EXCEPT:",
+    "options": ["SaaS", "IaaS", "PaaS", "WAAS"],
+    "answer": "WAAS"
+  },
+  {
+    "question": "Which command lists open ports and active connections?",
+    "options": ["netstat", "ping", "tracert", "arp"],
+    "answer": "netstat"
+  },
+  {
+    "question": "The command ipconfig /flushdns does what?",
+    "options": ["Updates IP address", "Resets network adapter", "Clears DNS cache", "Opens a port"],
+    "answer": "Clears DNS cache"
+  },
+  {
+    "question": "A benefit of cloud storage is:",
+    "options": ["Expensive maintenance", "Physical backup needed", "Access from anywhere", "Slower access"],
+    "answer": "Access from anywhere"
+  },
+  {
+    "question": "Which protocol is used to resolve domain names?",
+    "options": ["FTP", "DHCP", "DNS", "SMTP"],
+    "answer": "DNS"
+  },
+  {
+    "question": "Which is NOT typically found in IPv6 headers?",
+    "options": ["Source address", "Destination address", "Checksum", "Flow label"],
+    "answer": "Checksum"
+  },
+  {
+    "question": "Which IPv6 address type sends to all nodes?",
+    "options": ["Unicast", "Multicast", "Anycast", "Broadcast"],
+    "answer": "Multicast"
+  },
+  {
+    "question": "What helps reduce IP exhaustion?",
+    "options": ["NAT", "IPv6", "Subnetting", "DHCP"],
+    "answer": "IPv6"
+  },
+  {
+    "question": "What does TTL prevent in IP packets?",
+    "options": ["DNS failure", "Packet looping", "ARP spoofing", "IP conflict"],
+    "answer": "Packet looping"
+  },
+  {
+    "question": "Which command helps detect DNS poisoning?",
+    "options": ["netstat", "ping", "nslookup", "tracert"],
+    "answer": "nslookup"
+  },
+  {
+    "question": "IPv6 was introduced to solve which major issue?",
+    "options": ["Wi-Fi lag", "MAC address spoofing", "IP address depletion", "VPN speed"],
+    "answer": "IP address depletion"
+  },
+  {
+    "question": "What is a symptom of a failed DNS resolution?",
+    "options": ["'Server not found' error", "Slow download speed", "High ping", "Wi-Fi disconnected"],
+    "answer": "'Server not found' error"
+  },
+  {
+    "question": "Which protocol does ping use to send messages?",
+    "options": ["TCP", "UDP", "ICMP", "IPX"],
+    "answer": "ICMP"
+  },
+  {
+    "question": "Which term describes storing software/data in remote servers accessible via the internet?",
+    "options": ["Local backup", "NAS", "Cloud computing", "HTTP hosting"],
+    "answer": "Cloud computing"
+  },
+  {
+    "question": "Which tool is helpful in analyzing routing issues?",
+    "options": ["ping", "tracert", "ftp", "telnet"],
+    "answer": "tracert"
+  },
+  {
+    "question": "What is the main function of hosts file?",
+    "options": ["Routing", "Firewall settings", "DNS name resolution", "Port scanning"],
+    "answer": "DNS name resolution"
+  }
+]
