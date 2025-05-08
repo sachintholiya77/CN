@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the function of a modem in a dial-up connection?",
+    "options": ["Encrypts data", "Converts digital signals to analog", "Compresses files", "Acts as a firewall"],
+    "answer": "Converts digital signals to analog"
+  },
+  {
+    "question": "Which type of internet connection uses telephone lines and allows simultaneous voice and data?",
+    "options": ["Dial-up", "DSL", "Fiber", "Cable"],
+    "answer": "DSL"
+  },
+  {
+    "question": "What does the term 'broadband' imply?",
+    "options": ["Single frequency communication", "High-speed internet with multiple data channels", "Slow-speed analog communication", "Limited bandwidth"],
+    "answer": "High-speed internet with multiple data channels"
+  },
+  {
+    "question": "Which is a characteristic of dial-up internet?",
+    "options": ["Always-on connection", "High bandwidth", "Requires telephone line", "Fiber-optic based"],
+    "answer": "Requires telephone line"
+  },
+  {
+    "question": "T1 lines can carry how many channels of voice data?",
+    "options": ["12", "24", "36", "48"],
+    "answer": "24"
+  },
+  {
+    "question": "What does DSL stand for?",
+    "options": ["Digital Subscriber Line", "Direct Server Link", "Data Signal Line", "Digital Standard Loop"],
+    "answer": "Digital Subscriber Line"
+  },
+  {
+    "question": "Which connection type typically uses coaxial cable?",
+    "options": ["Fiber", "DSL", "Cable broadband", "Dial-up"],
+    "answer": "Cable broadband"
+  },
+  {
+    "question": "Which broadband technology offers the highest potential speed?",
+    "options": ["DSL", "Fiber", "Dial-up", "Satellite"],
+    "answer": "Fiber"
+  },
+  {
+    "question": "A VPN creates what type of connection?",
+    "options": ["Physical", "Analog", "Encrypted tunnel", "Broadcast"],
+    "answer": "Encrypted tunnel"
+  },
+  {
+    "question": "Which is an example of WAN technology?",
+    "options": ["Ethernet", "Wi-Fi", "MPLS", "Bluetooth"],
+    "answer": "MPLS"
+  },
+  {
+    "question": "Point-to-point VPNs connect:",
+    "options": ["Browsers to websites", "Two distant networks securely", "Modems to ISPs", "Routers to switches"],
+    "answer": "Two distant networks securely"
+  },
+  {
+    "question": "Which of the following provides internet over optical fiber?",
+    "options": ["Cable", "DSL", "Fiber to the home (FTTH)", "Dial-up"],
+    "answer": "Fiber to the home (FTTH)"
+  },
+  {
+    "question": "What is a major disadvantage of dial-up connections?",
+    "options": ["Uses fiber optics", "Slow speed", "Requires mobile data", "Supports high-definition streaming"],
+    "answer": "Slow speed"
+  },
+  {
+    "question": "Which of these is not a wireless network configuration?",
+    "options": ["Ad hoc", "Infrastructure", "Hub-centric", "Mesh"],
+    "answer": "Hub-centric"
+  },
+  {
+    "question": "What device connects a LAN to the internet?",
+    "options": ["Switch", "Router", "Repeater", "Bridge"],
+    "answer": "Router"
+  },
+  {
+    "question": "Which wireless configuration connects devices directly without an access point?",
+    "options": ["Infrastructure", "Mesh", "Ad hoc", "Bridged"],
+    "answer": "Ad hoc"
+  },
+  {
+    "question": "Which wireless channel offers the least interference in the 2.4 GHz band?",
+    "options": ["Channel 1", "Channel 6", "Channel 11", "Channel 3"],
+    "answer": "Channel 1"
+  },
+  {
+    "question": "What is WPA2 used for?",
+    "options": ["Data compression", "Internet filtering", "Wireless encryption", "Signal boosting"],
+    "answer": "Wireless encryption"
+  },
+  {
+    "question": "Which wireless security method is considered outdated?",
+    "options": ["WPA2", "WPA3", "WEP", "EAP"],
+    "answer": "WEP"
+  },
+  {
+    "question": "Which of the following is a cellular networking technology?",
+    "options": ["Wi-Fi", "Bluetooth", "4G LTE", "Zigbee"],
+    "answer": "4G LTE"
+  },
+  {
+    "question": "Which network is most suitable for mobile devices?",
+    "options": ["WAN", "LAN", "PAN", "Cellular"],
+    "answer": "Cellular"
+  },
+  {
+    "question": "Which broadband type offers symmetrical upload/download speeds?",
+    "options": ["DSL", "Cable", "Fiber", "Dial-up"],
+    "answer": "Fiber"
+  },
+  {
+    "question": "What is the maximum data rate of a standard T1 line?",
+    "options": ["1.544 Mbps", "128 Kbps", "45 Mbps", "10 Mbps"],
+    "answer": "1.544 Mbps"
+  },
+  {
+    "question": "Which one is a benefit of using VPNs?",
+    "options": ["Better video quality", "Faster download speed", "Secure remote access", "Less bandwidth usage"],
+    "answer": "Secure remote access"
+  },
+  {
+    "question": "What does a wireless access point do?",
+    "options": ["Provides wired LAN access", "Acts as a DHCP server", "Enables wireless devices to connect to a network", "Encrypts Wi-Fi traffic"],
+    "answer": "Enables wireless devices to connect to a network"
+  },
+  {
+    "question": "Which technology is best suited for rural internet access?",
+    "options": ["Fiber", "Cable", "Satellite", "Ethernet"],
+    "answer": "Satellite"
+  },
+  {
+    "question": "Which of these technologies is NOT used for broadband?",
+    "options": ["Fiber", "DSL", "Dial-up", "Cable"],
+    "answer": "Dial-up"
+  },
+  {
+    "question": "Which wireless technology has the longest range?",
+    "options": ["Wi-Fi", "Bluetooth", "Zigbee", "LTE"],
+    "answer": "LTE"
+  },
+  {
+    "question": "A DSL connection is most impacted by:",
+    "options": ["Distance from the central office", "Weather", "Number of users", "Fiber availability"],
+    "answer": "Distance from the central office"
+  },
+  {
+    "question": "What is the key difference between cable and DSL?",
+    "options": ["DSL is faster", "Cable is dedicated bandwidth", "DSL uses phone lines, cable uses coax", "Cable uses satellites"],
+    "answer": "DSL uses phone lines, cable uses coax"
+  },
+  {
+    "question": "Which of these is a typical wireless encryption protocol?",
+    "options": ["HTTPS", "SSL", "WPA3", "FTP"],
+    "answer": "WPA3"
+  },
+  {
+    "question": "Which device handles NAT and DHCP in most home networks?",
+    "options": ["Modem", "Switch", "Router", "Repeater"],
+    "answer": "Router"
+  },
+  {
+    "question": "Which network is ideal for wearable smart devices?",
+    "options": ["PAN", "LAN", "WAN", "SAN"],
+    "answer": "PAN"
+  },
+  {
+    "question": "Which VPN type connects individual clients to the main office?",
+    "options": ["Remote-access VPN", "Site-to-site VPN", "Tunneling VPN", "Personal VPN"],
+    "answer": "Remote-access VPN"
+  },
+  {
+    "question": "Which of these is NOT used in fiber optic connections?",
+    "options": ["Light pulses", "Glass cables", "Electrical signals", "Optical splitters"],
+    "answer": "Electrical signals"
+  },
+  {
+    "question": "Wireless channels can be impacted by:",
+    "options": ["Interference", "Signal overlap", "Device density", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which wireless standard provides the highest speeds today?",
+    "options": ["802.11a", "802.11b", "802.11ac", "802.11g"],
+    "answer": "802.11ac"
+  },
+  {
+    "question": "Which network type connects multiple cities?",
+    "options": ["LAN", "MAN", "WAN", "PAN"],
+    "answer": "WAN"
+  },
+  {
+    "question": "Which of these is NOT a T-Carrier technology?",
+    "options": ["T1", "T2", "T3", "T5"],
+    "answer": "T5"
+  },
+  {
+    "question": "Cable internet typically shares bandwidth with:",
+    "options": ["DSL", "Dial-up", "Nearby users", "Fiber lines"],
+    "answer": "Nearby users"
+  },
+  {
+    "question": "Which is not a security feature of VPNs?",
+    "options": ["Encryption", "IP hiding", "Data tunneling", "Speed enhancement"],
+    "answer": "Speed enhancement"
+  },
+  {
+    "question": "What wireless configuration relies on routers for communication?",
+    "options": ["Ad hoc", "Infrastructure", "Peer-to-peer", "Tethered"],
+    "answer": "Infrastructure"
+  },
+  {
+    "question": "Cellular networks use:",
+    "options": ["Fiber backbones", "Towers and base stations", "Wired Ethernet", "Repeaters only"],
+    "answer": "Towers and base stations"
+  },
+  {
+    "question": "Which device extends the wireless signal range?",
+    "options": ["Modem", "Repeater", "Router", "Switch"],
+    "answer": "Repeater"
+  },
+  {
+    "question": "Mobile hotspots provide internet using:",
+    "options": ["DSL", "Fiber", "Cellular data", "Cable"],
+    "answer": "Cellular data"
+  },
+  {
+    "question": "A fiber-to-the-premises (FTTP) network connects directly to:",
+    "options": ["ISP router", "Central office", "Customer’s building", "Modem"],
+    "answer": "Customer’s building"
+  },
+  {
+    "question": "Which wireless band has more non-overlapping channels?",
+    "options": ["2.4 GHz", "5 GHz", "900 MHz", "1.8 GHz"],
+    "answer": "5 GHz"
+  },
+  {
+    "question": "Which term describes a secured wireless connection setup?",
+    "options": ["Hotspot", "WEP", "WPA3", "Guest mode"],
+    "answer": "WPA3"
+  },
+  {
+    "question": "What term is used for home internet via power lines?",
+    "options": ["Cable", "Powerline networking", "DSL", "FTTH"],
+    "answer": "Powerline networking"
+  },
+  {
+    "question": "What is the primary purpose of wireless security protocols?",
+    "options": ["Increase range", "Reduce signal strength", "Prevent unauthorized access", "Improve download speed"],
+    "answer": "Prevent unauthorized access"
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the main function of the Network Layer?",
+    "options": ["Ensuring reliable transmission", "Addressing and routing", "Error detection", "Flow control"],
+    "answer": "Addressing and routing"
+  },
+  {
+    "question": "Which of the following is a valid IPv4 address?",
+    "options": ["256.100.50.25", "192.168.1.1", "123.456.78.90", "192.300.1.1"],
+    "answer": "192.168.1.1"
+  },
+  {
+    "question": "What does ARP stand for?",
+    "options": ["Address Routing Protocol", "Automatic Routing Protocol", "Address Resolution Protocol", "Alternate Routing Process"],
+    "answer": "Address Resolution Protocol"
+  },
+  {
+    "question": "What is the default subnet mask for a Class C IP address?",
+    "options": ["255.255.0.0", "255.0.0.0", "255.255.255.0", "255.255.255.255"],
+    "answer": "255.255.255.0"
+  },
+  {
+    "question": "Which class of IP address is used for multicast?",
+    "options": ["Class A", "Class B", "Class C", "Class D"],
+    "answer": "Class D"
+  },
+  {
+    "question": "CIDR stands for:",
+    "options": ["Classful Inter-Domain Routing", "Classless Intra-Domain Routing", "Classless Inter-Domain Routing", "Central IP Domain Registry"],
+    "answer": "Classless Inter-Domain Routing"
+  },
+  {
+    "question": "Which protocol resolves IP addresses to MAC addresses?",
+    "options": ["DHCP", "ICMP", "ARP", "RARP"],
+    "answer": "ARP"
+  },
+  {
+    "question": "Which of these allows efficient IP address allocation?",
+    "options": ["Subnetting", "Classful addressing", "CIDR", "NAT"],
+    "answer": "CIDR"
+  },
+  {
+    "question": "What does a subnet mask do?",
+    "options": ["Encrypts data", "Defines the network portion of an IP", "Hides private IPs", "Translates addresses"],
+    "answer": "Defines the network portion of an IP"
+  },
+  {
+    "question": "Which is used to determine the next hop in a network?",
+    "options": ["ARP table", "Routing table", "Firewall", "DNS"],
+    "answer": "Routing table"
+  },
+  {
+    "question": "What does TCP stand for?",
+    "options": ["Transmission Control Protocol", "Transport Channel Protocol", "Trusted Communication Protocol", "Transfer Control Process"],
+    "answer": "Transmission Control Protocol"
+  },
+  {
+    "question": "What makes TCP a connection-oriented protocol?",
+    "options": ["Firewalls", "Three-way handshake", "UDP", "IPv4"],
+    "answer": "Three-way handshake"
+  },
+  {
+    "question": "What are the TCP control flags used for connection setup?",
+    "options": ["SYN, ACK", "FIN, RST", "PSH, URG", "ALL"],
+    "answer": "SYN, ACK"
+  },
+  {
+    "question": "In the TCP three-way handshake, what is the second step?",
+    "options": ["SYN", "SYN-ACK", "ACK", "FIN"],
+    "answer": "SYN-ACK"
+  },
+  {
+    "question": "Which TCP flag is used to terminate a connection?",
+    "options": ["SYN", "ACK", "FIN", "URG"],
+    "answer": "FIN"
+  },
+  {
+    "question": "What is the initial state of a TCP socket?",
+    "options": ["LISTEN", "ESTABLISHED", "CLOSED", "SYN_SENT"],
+    "answer": "CLOSED"
+  },
+  {
+    "question": "Which protocol is used for connectionless communication?",
+    "options": ["TCP", "FTP", "UDP", "HTTP"],
+    "answer": "UDP"
+  },
+  {
+    "question": "Which of the following protocols is connection-oriented?",
+    "options": ["UDP", "TCP", "ICMP", "IP"],
+    "answer": "TCP"
+  },
+  {
+    "question": "What is the role of a firewall?",
+    "options": ["Address translation", "Data encryption", "Traffic filtering", "Domain resolution"],
+    "answer": "Traffic filtering"
+  },
+  {
+    "question": "Which TCP state occurs after the connection is closed?",
+    "options": ["FIN_WAIT_1", "CLOSE_WAIT", "TIME_WAIT", "LISTEN"],
+    "answer": "TIME_WAIT"
+  },
+  {
+    "question": "Which part of the IP address is determined by the subnet mask?",
+    "options": ["Gateway", "Broadcast", "Network portion", "Host portion"],
+    "answer": "Network portion"
+  },
+  {
+    "question": "A /24 subnet mask is equivalent to:",
+    "options": ["255.0.0.0", "255.255.0.0", "255.255.255.0", "255.255.255.255"],
+    "answer": "255.255.255.0"
+  },
+  {
+    "question": "Which protocol uses ports but is unreliable?",
+    "options": ["TCP", "UDP", "ICMP", "FTP"],
+    "answer": "UDP"
+  },
+  {
+    "question": "Which field in TCP indicates the end of data?",
+    "options": ["SYN", "ACK", "FIN", "PSH"],
+    "answer": "FIN"
+  },
+  {
+    "question": "Which port number is used for HTTP?",
+    "options": ["80", "443", "21", "23"],
+    "answer": "80"
+  },
+  {
+    "question": "Which protocol uses three-way handshakes?",
+    "options": ["UDP", "TCP", "ICMP", "HTTP"],
+    "answer": "TCP"
+  },
+  {
+    "question": "TCP is best suited for:",
+    "options": ["Video streaming", "Live gaming", "File transfers", "Voice calling"],
+    "answer": "File transfers"
+  },
+  {
+    "question": "UDP is ideal for:",
+    "options": ["Email", "Voice over IP", "Banking", "Secure logins"],
+    "answer": "Voice over IP"
+  },
+  {
+    "question": "Which TCP flag is used during retransmission?",
+    "options": ["PSH", "RST", "SYN", "ACK"],
+    "answer": "ACK"
+  },
+  {
+    "question": "What is a TCP segment?",
+    "options": ["Physical unit", "Data unit in Layer 3", "Data unit at Transport layer", "Encrypted packet"],
+    "answer": "Data unit at Transport layer"
+  },
+  {
+    "question": "A /26 subnet provides how many usable host addresses?",
+    "options": ["30", "62", "64", "126"],
+    "answer": "62"
+  },
+  {
+    "question": "Which protocol is faster for real-time communication?",
+    "options": ["TCP", "UDP", "ICMP", "ARP"],
+    "answer": "UDP"
+  },
+  {
+    "question": "What is the last valid host in the subnet 192.168.1.0/28?",
+    "options": ["192.168.1.14", "192.168.1.15", "192.168.1.16", "192.168.1.13"],
+    "answer": "192.168.1.14"
+  },
+  {
+    "question": "Which application layer protocol works over TCP port 25?",
+    "options": ["HTTP", "SMTP", "FTP", "DNS"],
+    "answer": "SMTP"
+  },
+  {
+    "question": "Which part of the IP address 192.168.5.14/24 is the host ID?",
+    "options": ["192.168", "5", "14", "192.168.5"],
+    "answer": "14"
+  },
+  {
+    "question": "How many subnets can be created from a /24 network using a /26 mask?",
+    "options": ["2", "4", "8", "16"],
+    "answer": "4"
+  },
+  {
+    "question": "Which application layer protocol uses UDP?",
+    "options": ["SMTP", "DNS", "FTP", "SSH"],
+    "answer": "DNS"
+  },
+  {
+    "question": "Which address type is used to send to all devices in a subnet?",
+    "options": ["Unicast", "Multicast", "Broadcast", "Anycast"],
+    "answer": "Broadcast"
+  },
+  {
+    "question": "Which is true about TCP reliability?",
+    "options": ["No error detection", "Does not use acknowledgment", "Uses sequence numbers", "Does not retransmit"],
+    "answer": "Uses sequence numbers"
+  },
+  {
+    "question": "Which firewall rule type blocks all incoming traffic?",
+    "options": ["Deny Inbound", "Allow All", "NAT Forward", "DMZ Enable"],
+    "answer": "Deny Inbound"
+  },
+  {
+    "question": "What is a socket?",
+    "options": ["Hardware port", "Software process ID", "IP address + Port number", "Domain name"],
+    "answer": "IP address + Port number"
+  },
+  {
+    "question": "DNS uses which port?",
+    "options": ["80", "443", "53", "25"],
+    "answer": "53"
+  },
+  {
+    "question": "Which of the following is not a valid private IP range?",
+    "options": ["192.168.0.0", "10.0.0.0", "172.16.0.0", "8.8.8.8"],
+    "answer": "8.8.8.8"
+  },
+  {
+    "question": "Which is more efficient for sending the same data to many users?",
+    "options": ["Unicast", "Broadcast", "Multicast", "Anycast"],
+    "answer": "Multicast"
+  },
+  {
+    "question": "Which IP class has the largest number of hosts?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "A"
+  },
+  {
+    "question": "How many bits are in an IPv4 address?",
+    "options": ["32", "64", "128", "256"],
+    "answer": "32"
+  },
+  {
+    "question": "What is used for NAT translation in routers?",
+    "options": ["MAC Address", "IP Header", "Port Number", "Subnet"],
+    "answer": "Port Number"
+  },
+  {
+    "question": "Which service maps domain names to IPs?",
+    "options": ["FTP", "DNS", "DHCP", "SMTP"],
+    "answer": "DNS"
+  },
+  {
+    "question": "Which application protocol is secure and uses port 443?",
+    "options": ["HTTP", "HTTPS", "FTP", "DNS"],
+    "answer": "HTTPS"
+  },
+  {
+    "question": "Which is NOT a TCP control flag?",
+    "options": ["SYN", "ACK", "STOP", "FIN"],
+    "answer": "STOP"
+  }
+]

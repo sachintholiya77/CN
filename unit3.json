@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the primary purpose of DNS?",
+    "options": ["Routing", "Name resolution", "Packet switching", "Firewalling"],
+    "answer": "Name resolution"
+  },
+  {
+    "question": "Which protocol does DNS primarily use?",
+    "options": ["TCP", "ICMP", "UDP", "HTTP"],
+    "answer": "UDP"
+  },
+  {
+    "question": "What does DHCP stand for?",
+    "options": ["Domain Host Control Protocol", "Dynamic Host Configuration Protocol", "Data Handling and Configuration Protocol", "Digital Host Communication Protocol"],
+    "answer": "Dynamic Host Configuration Protocol"
+  },
+  {
+    "question": "Which DNS record maps a domain name to an IPv4 address?",
+    "options": ["MX", "CNAME", "A", "PTR"],
+    "answer": "A"
+  },
+  {
+    "question": "What is the function of a CNAME record?",
+    "options": ["Canonical name mapping", "Email routing", "Reverse lookup", "Forwarding URLs"],
+    "answer": "Canonical name mapping"
+  },
+  {
+    "question": "At which OSI layer does DNS operate?",
+    "options": ["Application", "Transport", "Network", "Data Link"],
+    "answer": "Application"
+  },
+  {
+    "question": "What does NAT stand for?",
+    "options": ["Network Access Translation", "Network Address Translation", "Name and Address Transfer", "None of the above"],
+    "answer": "Network Address Translation"
+  },
+  {
+    "question": "What is the primary benefit of NAT?",
+    "options": ["Increase speed", "Secure internal IPs", "Route emails", "Manage DNS records"],
+    "answer": "Secure internal IPs"
+  },
+  {
+    "question": "What is a DNS zone?",
+    "options": ["A group of domain names", "An area where DNS caching is stored", "A section of the DNS namespace", "A firewall area"],
+    "answer": "A section of the DNS namespace"
+  },
+  {
+    "question": "Which record type is used to define the mail server for a domain?",
+    "options": ["MX", "A", "CNAME", "TXT"],
+    "answer": "MX"
+  },
+  {
+    "question": "Which protocol does DHCP use?",
+    "options": ["UDP", "TCP", "ICMP", "FTP"],
+    "answer": "UDP"
+  },
+  {
+    "question": "What is the function of a proxy server?",
+    "options": ["Caching", "Filtering", "Anonymity", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which DNS record is used for domain verification?",
+    "options": ["TXT", "A", "MX", "PTR"],
+    "answer": "TXT"
+  },
+  {
+    "question": "PTR records are used for?",
+    "options": ["Reverse DNS lookups", "Forwarding", "Email routing", "Subdomain creation"],
+    "answer": "Reverse DNS lookups"
+  },
+  {
+    "question": "Which record points one domain to another?",
+    "options": ["CNAME", "A", "MX", "NS"],
+    "answer": "CNAME"
+  },
+  {
+    "question": "What does VPN stand for?",
+    "options": ["Virtual Private Network", "Verified Private Node", "Virtual Packet Network", "Variable Private Network"],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "What does a DHCP lease define?",
+    "options": ["IP assignment duration", "IP class", "MAC filter", "Network topology"],
+    "answer": "IP assignment duration"
+  },
+  {
+    "question": "What is split-horizon DNS used for?",
+    "options": ["Different answers based on source", "IP translation", "Reverse lookup", "Redundancy"],
+    "answer": "Different answers based on source"
+  },
+  {
+    "question": "What port does DNS typically use?",
+    "options": ["53", "80", "21", "443"],
+    "answer": "53"
+  },
+  {
+    "question": "What does a proxy server not do?",
+    "options": ["Encrypt data", "Mask IP", "Cache content", "Resolve names"],
+    "answer": "Encrypt data"
+  },
+  {
+    "question": "Which DNS record defines the authoritative server for a zone?",
+    "options": ["SOA", "MX", "TXT", "A"],
+    "answer": "SOA"
+  },
+  {
+    "question": "What is a benefit of DHCP?",
+    "options": ["Automatic IP assignment", "Manual IP configuration", "IP blocking", "Encryption"],
+    "answer": "Automatic IP assignment"
+  },
+  {
+    "question": "What is a dynamic IP address?",
+    "options": ["IP that never changes", "IP manually assigned", "IP assigned temporarily by DHCP", "IP used by static websites"],
+    "answer": "IP assigned temporarily by DHCP"
+  },
+  {
+    "question": "Which layer does NAT primarily operate on?",
+    "options": ["Network", "Application", "Data Link", "Transport"],
+    "answer": "Network"
+  },
+  {
+    "question": "DNS translates domain names to:",
+    "options": ["URLs", "MAC addresses", "IP addresses", "Email addresses"],
+    "answer": "IP addresses"
+  },
+  {
+    "question": "Which record is used for SPF configuration in DNS?",
+    "options": ["TXT", "MX", "A", "NS"],
+    "answer": "TXT"
+  },
+  {
+    "question": "A DNS resolver is responsible for:",
+    "options": ["Initiating name resolution", "Hosting domain names", "Registering domains", "Email forwarding"],
+    "answer": "Initiating name resolution"
+  },
+  {
+    "question": "How does DHCP detect address conflicts?",
+    "options": ["Using ping", "Using ARP", "Manual check", "DNS lookup"],
+    "answer": "Using ARP"
+  },
+  {
+    "question": "Which of the following can NAT break?",
+    "options": ["DNS", "VoIP", "Email", "Routing"],
+    "answer": "VoIP"
+  },
+  {
+    "question": "What kind of IP does NAT hide?",
+    "options": ["Private IP", "Public IP", "Dynamic IP", "Static IP"],
+    "answer": "Private IP"
+  },
+  {
+    "question": "What does a DNS MX record specify?",
+    "options": ["Mail servers", "Web servers", "DNS servers", "File servers"],
+    "answer": "Mail servers"
+  },
+  {
+    "question": "DHCP Discover message is sent using:",
+    "options": ["Broadcast", "Multicast", "Unicast", "Tunnel"],
+    "answer": "Broadcast"
+  },
+  {
+    "question": "What is the default lease time in many DHCP servers?",
+    "options": ["24 hours", "12 hours", "1 hour", "1 week"],
+    "answer": "24 hours"
+  },
+  {
+    "question": "How many types of DNS queries exist?",
+    "options": ["3", "2", "4", "1"],
+    "answer": "3"
+  },
+  {
+    "question": "Which one is not a valid DNS zone type?",
+    "options": ["Primary", "Secondary", "Static", "Stub"],
+    "answer": "Static"
+  },
+  {
+    "question": "A reverse DNS lookup resolves:",
+    "options": ["IP to domain name", "Domain to MAC", "Domain to subnet", "MAC to IP"],
+    "answer": "IP to domain name"
+  },
+  {
+    "question": "What service provides NAT traversal?",
+    "options": ["STUN", "SMTP", "FTP", "HTTP"],
+    "answer": "STUN"
+  },
+  {
+    "question": "DNS caching helps reduce:",
+    "options": ["Bandwidth usage", "Query load", "Latency", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "A DHCP scope defines:",
+    "options": ["Range of assignable IPs", "DNS records", "Firewall rules", "NAT rules"],
+    "answer": "Range of assignable IPs"
+  },
+  {
+    "question": "Which tool checks DNS propagation globally?",
+    "options": ["Nslookup", "Dig", "Ping", "Traceroute"],
+    "answer": "Dig"
+  },
+  {
+    "question": "What does a VPN encrypt?",
+    "options": ["Entire data traffic", "Email only", "DNS queries", "DHCP requests"],
+    "answer": "Entire data traffic"
+  },
+  {
+    "question": "Which protocol can be used with VPN?",
+    "options": ["PPTP", "L2TP", "OpenVPN", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which NAT type allows multiple devices to share one public IP?",
+    "options": ["PAT", "SNAT", "DNAT", "Static NAT"],
+    "answer": "PAT"
+  },
+  {
+    "question": "DHCPACK is sent in which step?",
+    "options": ["After DHCPREQUEST", "Before DHCPDISCOVER", "Before DHCPOFFER", "With DNS resolution"],
+    "answer": "After DHCPREQUEST"
+  },
+  {
+    "question": "Which port does DHCP use for client requests?",
+    "options": ["68", "67", "53", "80"],
+    "answer": "68"
+  },
+  {
+    "question": "Which record is not part of a typical DNS zone?",
+    "options": ["SRV", "A", "MX", "FTP"],
+    "answer": "FTP"
+  },
+  {
+    "question": "Which DNS server is queried first?",
+    "options": ["Root", "TLD", "Recursive resolver", "Authoritative"],
+    "answer": "Recursive resolver"
+  },
+  {
+    "question": "Which tool is NOT used for DNS troubleshooting?",
+    "options": ["Ipconfig", "Dig", "Traceroute", "SSH"],
+    "answer": "SSH"
+  },
+  {
+    "question": "Which NAT type translates one-to-one IPs?",
+    "options": ["Static NAT", "PAT", "Dynamic NAT", "SNAT"],
+    "answer": "Static NAT"
+  },
+  {
+    "question": "Which one is not a DHCP message?",
+    "options": ["DHCPREQUEST", "DHCPOFFER", "DHCPRELEASE", "DNSQUERY"],
+    "answer": "DNSQUERY"
+  }
+]
